@@ -87,6 +87,10 @@ def isword(word):
 
 #Example usage: python3 BoV.py --language EN --model models/model.txt --input in/db/ --output out/BoV/txt/
 
+#Pre-trained language models:
+#English Wikipedia: http://sites.labic.icmc.usp.br/MSc-Thesis_Antunes_2018/input/language-models/W2V-CBoW_Wikipedia/EN/2017-09-26/
+#Portuguese Wikipedia: http://sites.labic.icmc.usp.br/MSc-Thesis_Antunes_2018/input/language-models/W2V-CBoW_Wikipedia/PT/2017-09-26/
+
 #Pre-trained word and phrase vectors (Google): https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
 #More info: https://code.google.com/archive/p/word2vec/
 
