@@ -47,4 +47,4 @@ pip3 install -U nltk
 
 
 ### See more
-Project page on LABIC website: http://sites.labic.icmc.usp.br/Ms-Thesis_Antunes_2018
+Project page on LABIC website: http://sites.labic.icmc.usp.br/MSc-Thesis_Antunes_2018
